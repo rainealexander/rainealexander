@@ -1,5 +1,7 @@
 <h1 align="center">Hello! I'm Raine!</h1>
 
+![raine does code logo](https://drive.google.com/file/d/1PBdaW5stO5vMpkDJJzIGmZ_kFcqkPVLt/view?usp=sharing)  
+
 I'm currently creating web applications with a focus on the MERN stack. I love learning new things and exploring the places where art and code meet.
 
 
