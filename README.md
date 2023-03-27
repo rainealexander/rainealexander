@@ -5,10 +5,10 @@
 I'm currently creating web applications with a focus on the MERN stack. I love learning new things and exploring the places where art and code meet.
 
 
-- 🌱 I’m learning *p5.js and TailwindCSS*
-- 👯 I’m looking to collaborate on Web Development Related Projects
+- 🌱 I’m learning *React Native & Japanese*
+- 👯 I want to collaborate on Web Development & Game Dev Related Projects
 - 🤔 I’m looking for help with *Custom Image Recognition*
-- 🥅 2022 Goals: Balancing Mindfulness with an active Programming discipline
+- 🥅 2023 Goals: Use programming to make my life more productive
 - ⚡ Fun fact: I love procedural generation and coffee
 
 </br>
