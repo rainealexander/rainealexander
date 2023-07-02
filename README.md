@@ -13,7 +13,6 @@ I'm currently creating web applications with a focus on the MERN stack. I love l
 
 </br>
 
-![Raine's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainealexander&show_icons=true&theme=tokyonight&count_private=true) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainealexander&layout=compact&theme=tokyonight)](https://github.com/rainealexander)
 </br>
 <b>Note:</b> Top languages is only a metric of my public repos and does not necessarily reflect experience or skill level.
