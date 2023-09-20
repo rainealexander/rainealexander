@@ -5,8 +5,8 @@
 I'm currently creating web applications with a focus on the MERN stack. I love learning new things and exploring the places where art and code meet.
 
 
-- 🌱 I’m learning *React Native & Japanese*
-- 👯 I want to collaborate on Web Development & Game Dev Related Projects
+- 🌱 I’m Studying Computer Science at Iowa State University
+- 👯 I want to collaborate on Web Development & Game-Dev Related Projects
 - 🤔 I’m looking for help with *Custom Image Recognition*
 - 🥅 2023 Goals: Use programming to make my life more productive
 - ⚡ Fun fact: I love procedural generation and coffee
@@ -81,4 +81,4 @@ I'm currently creating web applications with a focus on the MERN stack. I love l
 
 Credits: [Raine Adams](https://github.com/rainealexander)
 
-Last Edited on: 2023-07-02
+Last Edited on: 2023-09-20
