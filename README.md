@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Raine!</h1>
 
-![raine does code logo](https://github.com/rainealexander/rainealexander/blob/main/github_banner_typing_css.svg)  
+![raine does code logo](https://github.com/rainealexander/rainedoescode/blob/main/github_banner_typing_css.svg)  
 
 I'm currently creating web applications with a focus on the MERN stack. I love learning new things and exploring the places where art and code meet.
 
@@ -13,7 +13,7 @@ I'm currently creating web applications with a focus on the MERN stack. I love l
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainealexander&layout=compact&theme=tokyonight)](https://github.com/rainealexander)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainedoescode&layout=compact&theme=tokyonight)](https://github.com/rainedoescode)
 </br>
 <b>Note:</b> Top languages is only a metric of my public repos and does not necessarily reflect experience or skill level.
 
@@ -79,6 +79,6 @@ I'm currently creating web applications with a focus on the MERN stack. I love l
 
 ---
 
-Credits: [Raine Adams](https://github.com/rainealexander)
+Credits: [Raine Adams](https://github.com/rainedoescode)
 
-Last Edited on: 2023-09-20
+Last Edited on: 2023-12-04
