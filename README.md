@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Raine!</h1>
 
-![raine does code logo](https://github.com/rainealexander/rainedoescode/blob/main/github_banner_typing_css.svg)  
+![raine does code logo](https://github.com/rainedoescode/rainedoescode/blob/main/github_banner_typing_css.svg)  
 
 I'm currently creating web applications with a focus on the MERN stack. I love learning new things and exploring the places where art and code meet.
 
